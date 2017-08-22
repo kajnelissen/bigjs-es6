@@ -1,0 +1,24 @@
+{
+  "name": "bigjs-es6",
+  "version": "1.0.0",
+  "description": "Module exporting big.js library object as ES6 style default field",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kajnelissen/bigjs-es.git"
+  },
+  "keywords": [
+    "es6",
+    "big.js",
+    "bigjs"
+  ],
+  "author": "kaj.nelissen@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kajnelissen/bigjs-es6/issues"
+  },
+  "homepage": "https://github.com/kajnelissen/bigjs-es6#readme",
+  "dependencies": {
+    "big.js": "*"
+  }
+}
